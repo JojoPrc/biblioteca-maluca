@@ -19,6 +19,7 @@ Na Biblioteca Maluca, a imaginação voa alto e as palavras dançam! Venha se di
 ## Tecnologias Utilizadas 🛠️
 
 - SQL (Super Querido Linguagem) 😍
+- dbdiagram.io(tabelinha) 📚
 
 
 ## Descrição 📜
